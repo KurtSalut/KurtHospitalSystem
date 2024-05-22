@@ -1,2 +1,0 @@
-# KurtHospitalSystem
-HospitalManagementSystem
